@@ -1,4 +1,4 @@
-﻿module v {
+﻿module c {
 	export class C0 extends CB {
 
 		public constructor() {
